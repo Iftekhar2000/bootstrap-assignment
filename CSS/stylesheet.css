@@ -16,3 +16,11 @@
 }
 
 
+@media only screen and (max-width: 767px){
+    .hero-container{
+        flex-direction: column;
+    }
+    .hero-img{
+        width: max-content;
+    }
+}
