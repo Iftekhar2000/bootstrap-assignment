@@ -22,5 +22,6 @@
     }
     .hero-img{
         width: max-content;
+        height: 70vh;
     }
 }
